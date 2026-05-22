@@ -1,0 +1,9 @@
+{
+  "name": "casino-royale",
+  "version": "1.0.0",
+  "description": "Casino Royale (No Money) — browser mini-casino",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
